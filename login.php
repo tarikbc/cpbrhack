@@ -32,7 +32,7 @@ else {
     <label for="username">Login:</label>
     <input name="username" id="username" /> <br />
     <label for="password">Senha:</label>
-    <input name="password" id="password" /> <br />
+    <input name="password" type="password" id="password" /> <br />
     <input type="submit" value="Login!">
 </form>
 <?
